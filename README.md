@@ -8,11 +8,11 @@
 
 Most "music taste" tools stop at *"you like pop and rap"*. This project looks at **how songs behave over time** and finds patterns that cut across genres, for example:
 
-| Pattern | Could appear in |
-|---|---|
-| Restrained passages building toward a big release | metal, folk, electronic |
-| Exposed vocals against sparse, spacious arrangements | R&B, acoustic pop, ambient |
-| Repetitive grooves with small, accumulating changes | funk, techno, experimental rock |
+| Pattern                                              | Could appear in                 |
+| ---------------------------------------------------- | ------------------------------- |
+| Restrained passages building toward a big release    | metal, folk, electronic         |
+| Exposed vocals against sparse, spacious arrangements | R&B, acoustic pop, ambient      |
+| Repetitive grooves with small, accumulating changes  | funk, techno, experimental rock |
 
 ## How it works (planned)
 
@@ -38,7 +38,3 @@ winget install ffmpeg
 ## Results
 
 *Coming in Module 8. Only numbers from experiments actually run will appear here.*
-
-## What I learned
-
-See [LEARNING_LOG.md](LEARNING_LOG.md).
