@@ -1,0 +1,22 @@
+# --- Machine-specific ---
+.venv/
+
+# --- Secrets (API keys) ---
+.env
+
+# --- Audio (big, copyrighted, deleted after analysis anyway) ---
+*.mp3
+*.m4a
+*.wav
+*.webm
+*.flac
+
+# --- Generated data (can be rebuilt by re-running the pipeline) ---
+*.db
+
+# --- Python / Jupyter auto-generated files ---
+__pycache__/
+.ipynb_checkpoints/
+
+# --- Personal workflow files ---
+CLAUDE.md
